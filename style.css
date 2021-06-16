@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+    display:flex;
+    flex-wrap: wrap;
+}
+.gridPart{
+    height:6.25vh;
+    width:6.25vw;
+    margin:0;
+    padding:0;
+}
